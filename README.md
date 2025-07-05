@@ -1,9 +1,9 @@
 ## What You Can Do
-- ✅ Create, update, delete, and view your to-do tasks  
-- ✅ View tasks for a specific user  
-- ✅ Clean and reliable REST API  
-- ✅ Data is saved using MongoDB  
-- ✅ Works perfectly with the React frontend (CORS enabled)
+- Create, update, delete, and view your to-do tasks  
+- View tasks for a specific user  
+- Clean and reliable REST API  
+- Data is saved using MongoDB  
+- Works perfectly with the React frontend (CORS enabled)
 ## API Routes (Backend)
 | Method | Endpoint                | What it does                     |
 |--------|--------------------------|----------------------------------|
